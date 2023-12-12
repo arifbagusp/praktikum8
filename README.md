@@ -15,10 +15,10 @@ $${\color{lightblue}PYTHON}$$
 
 ## Program Class Data_Mahasiswa
 * **Diagram Class**
-![img](Gambar/DiagramClass.png)
+![img](gambar/DiagramClass.png)
 
 * **Flowchart**
-![img](Gambar/Flowchart.png)
+![img](gambar/Flowchart.png)
 
 ### **Penjelasan dan kode Programnya**   
 Program kita kali ini akan menggunakan sistem OOP(Object-Oriented Programming), apa itu OOP?

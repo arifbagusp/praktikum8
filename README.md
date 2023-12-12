@@ -174,7 +174,7 @@ while True:
         print("\n INPUT {} TIDAK ADA!, Silakan pilih [T/L/H/U/K] untuk menjalankan program!".format(menu))
 ```
 * **Hasil Program**
-    ![img](Gambar/praktikum.png)
+    ![img](gambar/praktikum.png)
 
 ## Penjelasan
 
